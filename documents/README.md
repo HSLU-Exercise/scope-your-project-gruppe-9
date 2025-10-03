@@ -4,4 +4,5 @@ Dieser Ordner enthält Dokumente, die wir während des ganzen Projektes abgespei
 
 ## Inhalte
 - Screenshots
+- Power-Interest-Grid
 - sonstiges
