@@ -5,13 +5,29 @@
 
 **Beispielinhalt:**
 ```markdown
-**Termin:** Montag, 6. Oktober – 18:00 Uhr  
-**Ort:** Online (Discord-Link folgt)
+**Termin:** Montag, 6. Oktober – 17:30 Uhr  
+**Ort:** HSLU Campus Rotkreuz, vor Zimmer 422
 
 **Agenda:**
-1. Stand der Issues (Teach-Slides & Cheat Sheet)
-2. Feedback zu Discussions
-3. Planung Milestones für Sprint 3
-4. Fragen & Blocker
+1. Stand der Issues
+2. Besprechung mit Dozent
+4. Planung Milestones für Sprint 2
+5. Fragen & Blocker
 
-Bitte kurz kommentieren, ob ihr könnt. Falls jemand später dazukommt, einfach hier reinschreiben. ✌️
+Bitte kurz kommentieren, ob ihr könnt. Falls es für jemanden zeitlich nicht passt, bitte melden. 
+```
+
+**Antwort Luka:**
+```markdown
+Passt, ich bin dabei!
+```
+
+**Antwort Enis:**
+```markdown
+Geht auch 18:00 Uhr, wird sonst etwas knapp...
+```
+
+**Antwort Nino:**
+```markdown
+Perfekt, dann machen wir 18:00 Uhr. Danke fürs Update!
+```
