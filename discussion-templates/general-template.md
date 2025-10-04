@@ -1,6 +1,6 @@
 **Frage:**
 ```markdown
-Was können wir machen, damit unsere Feedback konstruktiv bleibt, in Bezug auf GitHub und Diskussionen? Wie können wir uns gegenseitig motivieren, anstatt zu stresen?
+Was können wir machen, damit unsere Feedback konstruktiv bleibt, in Bezug auf GitHub und Diskussionen? Wie können wir uns gegenseitig motivieren, anstatt zu stressen?
 ```
 
 **Antwort Patrik:**
