@@ -1,14 +1,14 @@
-**Pull Request**
+### Titel
 
-## Beschreibung
+**Beschreibung:**
 Beschreibe kurz, was geändert wurde und warum.
 
-Änderungen
+**Änderungen:**
 - [ ] Neue Dateien hinzugefügt  
 - [ ] Bestehende Dateien angepasst  
 - [ ] Dokumentation aktualisiert  
 
-Akzeptanzkriterien
+**Akzeptanzkriterien:**
 - [ ] Code getestet  
 - [ ] Reviewer hinzugefügt  
 - [ ] Keine Konflikte mit `main`  
