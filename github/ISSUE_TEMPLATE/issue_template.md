@@ -1,5 +1,5 @@
 ---
-name: ✨ New Issue / User Story
+name: New Issue
 about: Beschreibe kurz die Aufgabe, Idee oder das Problem
 title: "[FEATURE] <Kurzbeschreibung>"
 labels: enhancement
