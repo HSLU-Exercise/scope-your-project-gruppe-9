@@ -1,0 +1,10 @@
+blank_issues_enabled: false  # verhindert "leere" Issues ohne Template
+
+contact_links:
+  - name: 💬 Allgemeine Fragen oder Feedback
+    url: https://github.com/HSLU-Exercise/scope-your-project-gruppe-9/discussions
+    about: Stelle allgemeine Fragen in den Discussions.
+
+# Standard-Template festlegen
+default:
+  template: issue_template.md
