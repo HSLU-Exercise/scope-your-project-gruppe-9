@@ -1,3 +1,12 @@
+---
+name: Bug Report
+about: Melde einen Fehler oder ein unerwartetes Verhalten
+title: "[BUG] <Kurzbeschreibung>"
+labels: bug
+assignees: ''
+---
+
+
 ### Titel
 
 **Beschreibung:**  
