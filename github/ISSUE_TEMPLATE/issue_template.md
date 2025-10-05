@@ -1,3 +1,12 @@
+---
+name: ✨ New Issue / User Story
+about: Beschreibe kurz die Aufgabe, Idee oder das Problem
+title: "[FEATURE] <Kurzbeschreibung>"
+labels: enhancement
+assignees: ''
+---
+
+
 ### Titel
 
 **Beschreibung:**  
