@@ -1,5 +1,3 @@
-<!-- Internal documentation for .github configuration -->
-
 # .github
 
 Dieser Ordner enthält GitHub-spezifische Konfigurationen.
