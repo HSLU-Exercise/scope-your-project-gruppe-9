@@ -1,7 +1,6 @@
 ### Titel
 
-**Beschreibung:**
-
+**Beschreibung:**  
 Beschreibe kurz, was geändert wurde und warum.
 
 **Änderungen:**
