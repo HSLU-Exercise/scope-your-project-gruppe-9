@@ -1,0 +1,15 @@
+# CODEOWNERS Datei im GitHub-Repo
+# Pfad zur Datei: .github/CODEOWNERS
+
+# Globale Owner für das gesamte Repository
+* @Noni2402
+
+# Spezifische Owner für einzelne Ordner
+/.github/ @Noni2402 @aleccasillo
+/artifact/ @dev3
+/cheatsheet/ @ViperPat01
+/discussion-templates/ @aleccasillo
+/documents/ @dev2
+/pm-lens/ @aleccasillo
+/slides/ @ViperPat01
+/video/ @Noni2402
