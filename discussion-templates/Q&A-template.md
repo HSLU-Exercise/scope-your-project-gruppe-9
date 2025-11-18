@@ -13,3 +13,8 @@ Liegt daran, dass unser Repo privat ist. GitHub zeigt Metriken erst, wenn es öf
 ```markdown
 Ah okay! Dann machen wir einfach Screenshots von einem öffentlichen Repo wie VSCode.
 ```
+
+**Frage:**
+```markdown
+Für alle Ok wenn wir alle Dateien in Microsoft 365 erstellen und bearbeiten?
+```
