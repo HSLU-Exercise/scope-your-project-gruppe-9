@@ -1,16 +1,32 @@
 ## 🗓 Meetings
 
-### Titel:
-**Weekly Meeting – KW ...**
+### Titel
+**Weekly Meeting – KW XX**
 
-**Beispielinhalt:**
-**Termin:** Datum – 00:00 Uhr  
-**Ort:** …
+---
 
-**Agenda:**  
+### 🕒 Termin  
+**Datum:** …  
+**Uhrzeit:** …  
+**Ort / Link:** …
+
+---
+
+### 📋 Agenda  
 1. …  
 2. …  
 3. …
 
-Bitte kurz kommentieren, ob ihr könnt.  
-Falls es für jemanden zeitlich nicht passt, bitte melden.
+---
+
+### 👍 / ❌ Rückmeldung  
+- **👍** = Termin passt  
+- **❌** = Termin passt nicht  
+
+Bitte reagiert entsprechend.
+
+---
+
+### 💡 Vorschläge & Themen  
+Habt ihr zusätzliche Themen, Ideen oder Fragen, die wir besprechen sollten?  
+→ Einfach unten in den Kommentaren ergänzen.
