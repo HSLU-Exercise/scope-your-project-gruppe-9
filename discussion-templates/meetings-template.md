@@ -1,25 +1,25 @@
 ## 🗓 Meetings
 
-### Titel
+### **Titel**
 **Weekly Meeting – KW XX**
 
 ---
 
-### 🕒 Termin  
+### 🕒 **Termin**
 **Datum:** …  
 **Uhrzeit:** …  
 **Ort / Link:** …
 
 ---
 
-### 📋 Agenda  
-1. …  
-2. …  
+### 📋 **Agenda**
+1. …
+2. …
 3. …
 
 ---
 
-### 👍 / ❌ Rückmeldung  
+### 👍 / ❌ **Rückmeldung**
 - **👍** = Termin passt  
 - **❌** = Termin passt nicht  
 
@@ -27,6 +27,15 @@ Bitte reagiert entsprechend.
 
 ---
 
-### 💡 Vorschläge & Themen  
+### 💡 **Vorschläge & Themen**
 Habt ihr zusätzliche Themen, Ideen oder Fragen, die wir besprechen sollten?  
 → Einfach unten in den Kommentaren ergänzen.
+
+---
+
+### 📝 **Bemerkungen**
+Weitere Hinweise, offene Punkte oder wichtige Informationen können hier eingetragen werden:
+- …
+- …
+- …
+
